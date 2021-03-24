@@ -1,0 +1,55 @@
+pagines:
+  - pagina:
+      tipus: "index"
+      titol: "Index:"
+      id: "index"
+      nom: ""
+      cognom: ""
+      causa: ""
+      contingut:
+        - linia: "Crear nota nova"
+        - linia: "Llistar notes"
+        - linia: "how"
+      comandes:
+        - comanda: "crear"
+        - comanda: "llistar"
+        - comanda: "how"
+  - pagina:
+      tipus: "llista"
+      titol: ""
+      id: "comandaIncorrecta"
+      nom: ""
+      cognom: ""
+      causa: ""
+      contingut:
+  - pagina:
+      tipus: "how"
+      titol: "How to use it"
+      id: "how"
+      nom: ""
+      cognom: ""
+      causa: ""
+      contingut:
+        - linia: "aki van les normes del quadern de mort. cada linia pot contenir un maxim de x caracters"
+        - linia: "Això ´es una altre línia de contingut"
+        - linia: " i aixó una altre"
+  - pagina:
+      tipus: "how"
+      titol: "How to use it 2"
+      id: "how2"
+      nom: ""
+      cognom: ""
+      causa: ""
+      contingut:
+        - linia: "aki van les normes del quadern de mort. cada linia pot contenir un maxim de x caracters"
+        - linia: "Això ´es una altre línia de contingut aquest és el how2"
+        - linia: "i aixó una altre"
+  - pagina:
+      tipus: "guardada"
+      titol: "titol=nom+cognom"
+      id: "nom+cognom"
+      nom: "nom"
+      cognom: "cognom"
+      causa: "causa"
+      contingut:
+        - linia: "especificacions"
